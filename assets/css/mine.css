@@ -1,0 +1,11 @@
+.year span {
+    color: yellow; important! 
+}
+.about-caption h3 {
+    color: yellow; important!
+}
+.hero__caption h1 {
+	font-size: 55px;
+    font-weight: 600;
+    color: aquamarine;
+}
